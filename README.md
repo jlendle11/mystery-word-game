@@ -7,7 +7,7 @@
 1. Clone
 1. Pull Request
 
-# Mystery Word Game Lab
+# Mystery Word Game
 
 Let's build a mystery word game in Ruby!
 
