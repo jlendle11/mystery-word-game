@@ -65,6 +65,10 @@ dog
 *   You __will__ need to create new instances variables.
 *   Don't add any more code to global scope.
 
+## Tip
+
+* Ask for user input by using `gets.chomp`
+
 ## Bonus
 
 *   Validate the user's input. If the user enters a non-alphabetical character, ask them to.
