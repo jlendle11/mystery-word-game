@@ -6,7 +6,7 @@ class Word
 
   # Guess a letter in the word.
   # Should return a boolean. true if the letter is in the word, false if not.
-  def guess!(letter)
+  def guess?(letter)
   end
 
   # Whether all letters in the word have been guessed correctly.
